@@ -1,0 +1,25 @@
+NombreProducto|Precio
+Señuelo DUO Beach Walker Axcion 95S GHN0179|85.00
+Señuelo DUO Beach Walker Axcion 95S Ishimochi GB|85.00
+Señuelo DUO Beach Walker Fulcrum Blue Mackarel|85.00
+Señuelo DUO Beach Walker Fulcrum Fire Sardine|85.00
+Señuelo DUO Beach Walker Fulcrum Ishimochi GB|85.00
+Señuelo DUO Beach Walker Guado 130 S MATT CHART – ACC0028|95.00
+Señuelo DUO Beach Walker Guado 130 S RED GOLD – AOA0026|95.00
+Señuelo DUO Beach Walker Guado 130 S RED GOLD – SARDINE OB-CHAZ188|95.00
+Señuelo DUO Beach Walker Guado 130 S SARDINE ULTRA – GHA0405|95.00
+Señuelo DUO Beach Walker Guado 130 S SNIPER PEJERREY – CSIZ144|95.00
+Señuelo DUO BeachWalker 120MD Anchovy Killer 20g|87.00
+Señuelo DUO BeachWalker 120MD Candy Golden Exodus 20g|87.00
+Señuelo DUO BeachWalker 120MD Candy Lover Special|87.00
+Señuelo DUO BeachWalker 120MD Chart Head Sayori 20g|87.00
+Señuelo DUO BeachWalker 120MD Chigomori Special|87.00
+Señuelo DUO BeachWalker 120MD Clear Blue Ocean 20g|87.00
+Señuelo DUO BeachWalker 120MD Clear Mullet II 20g|87.00
+Señuelo DUO BeachWalker 120MD Firegold 20g|87.00
+Señuelo DUO BeachWalker 120MD Haraguro Sardine 20g|87.00
+Señuelo DUO BeachWalker 120MD Hirame Black Gold OB 20g|87.00
+Señuelo DUO BeachWalker 120MD Hirame Gold 20g|87.00
+Señuelo DUO BeachWalker 120MD Hokkaido 20g|87.00
+Señuelo DUO BeachWalker 120MD Katakuchi 20g|87.00
+Señuelo DUO BeachWalker 120MD Night Moon Special 20g|87.00

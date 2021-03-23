@@ -1,0 +1,4 @@
+Nombres|ApPaterno|ApMaterno|Email
+Mirian|Tiburcio|Ortega|Mirian@gmail.com
+Alex|Tiburcio|Quispe|Alex@gmail.com
+Edin|Tiburcio|Quispe|Edin@gmail.com

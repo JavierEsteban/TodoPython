@@ -1,0 +1,38 @@
+2020-05-15 19:46  : Se escribio el valor Javier, el número de veces 2 
+ 2020-05-15 19:46  : Se escribio el valor Javier, el número de veces 2 
+ 2020-05-15 19:47  : Se escribio el valor roy, el número de veces 2 
+ 2020-05-15 19:47  : Se escribio el valor roy, el número de veces 2 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-15 19:49  : Se escribio el valor Mimi, el número de veces 6 
+ 2020-05-16 00:30  : Se escribio el valor Javier, el número de veces 3
+2020-05-16 00:30  : Se escribio el valor Javier, el número de veces 3
+2020-05-16 00:30  : Se escribio el valor Javier, el número de veces 3
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor roy, el número de veces 6
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:30  : Se escribio el valor Mirian, el número de veces 9
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
+2020-05-16 00:31  : Se escribio el valor Scott, el número de veces 10
